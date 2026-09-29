@@ -6,7 +6,7 @@
 <br>
 <br>
 **UpPeriscope** is an independent software foundry for developers, makers and curious people who like building things.   
-**Tools and experiments** built with curiosity, craftsmanship influenced by of all things, winemaking …, and a positive view of the future.   
+**Tools** and **experiments** built with curiosity, craftsmanship influenced by of all things, winemaking …, and a positive view of the future.   
   
 We're interested in innovation, creativity, quality and the natural world — and in the idea that making things better, more durable and more useful can itself be a powerful form of progress.  
   
@@ -16,11 +16,11 @@ We're interested in innovation, creativity, quality and the natural world — an
   
 **The Long Game**  
 
- UpPeriscope is the seed of something larger. We're exploring new ways for creative people, independent organisations and communities to work together: drawing on ideas from **complexity science, ‘Game B’ business theory** and **exploratory tech**, while remaining stubbornly practical.   
+ UpPeriscope is the seed of something larger. We're exploring new ways for creative people, independent organisations and communities to work together: drawing on ideas from **complexity science**, **‘Game B’** **business** **theory** and **exploratory** **tech**, while remaining stubbornly practical.   
   
 **Common sense.**  
   
 We believe in de-centralised progressive communities, independent thinking, ambitious craftsmanship and alliances between people and orgs trying to build a better future.  
 Some of that work may live on open networks such as ETH. Some needs to remain private.   
   
-The important thing is creating and building things that empower for the Future.  
+The important thing is creating and building things that empower for the **Future.**  
