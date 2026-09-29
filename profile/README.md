@@ -26,3 +26,5 @@ We believe in de-centralised progressive communities, independent thinking, ambi
 Some of that work may live on open networks such as ETH. Some needs to remain private.   
   
 The important thing is creating and building things that empower for the **Future.**  
+
+see /Roqett for some of our work .
