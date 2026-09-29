@@ -2,7 +2,7 @@
 
 # UpPeriscope
 
-<img width="535" height="280" alt="Screenshot 2026-09-30 at 7 01 55 am" src="https://github.com/user-attachments/assets/b382c890-632e-4373-9d1f-f47ac358e6f1" />
+<img width="100%"  alt="Screenshot 2026-09-30 at 7 01 55 am" src="https://github.com/user-attachments/assets/b382c890-632e-4373-9d1f-f47ac358e6f1" />
 
 **UpPeriscope** is an independent software foundry for developers, makers and curious people who like building things.   
 **Tools and experiments** built with curiosity, craftsmanship influenced by of all things, winemaking …, and a positive view of the future.   
