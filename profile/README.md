@@ -27,4 +27,8 @@ Some of that work may live on open networks such as ETH. Some needs to remain pr
   
 The important thing is creating and building things that empower for the **Future.**  
 
-see /Roqett for some of our work .
+**Selected work**
+
+- **[Magnet Napkin](https://github.com/Roqett/magnet-napkin)** — a local-first magnet board for laying out assets. Drop a folder, set a real canvas size, move and resize the pieces, leave notes that are clearly notes, and hand the result to a vision agent.
+
+see /Roqett for the rest of our work.
